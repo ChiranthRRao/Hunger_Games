@@ -1,0 +1,4 @@
+GRASS = 0
+WATER = 1
+FOREST = 2
+ROCK = 3
